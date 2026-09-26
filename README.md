@@ -1,4 +1,4 @@
 # fashion-mnist
 
-<img src="./images/Fashion MNIST.png" width="500">
+<img src="./Fashion MNIST.png" width="500">
 
