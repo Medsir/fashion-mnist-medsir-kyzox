@@ -1,3 +1,4 @@
 # fashion-mnist
 
-[](./Fashion%20MNIST.png)
+<img src="./images/Fashion MNIST.png" width="500">
+
